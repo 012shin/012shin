@@ -10,7 +10,7 @@ Department of Biomedical Engineering & Aritificial intelligence
 - Representation learning
 
 ## Research Experiences
-- Research Intern at Universial tranfer learning lab @ Korea University (March. 2024 - Present)
+- Research Intern at Universial Tranfer Learning Lab @ Korea University (March. 2024 - Present)
 - Research Intern at Biomedical Physics Lab @ Korea University (July. 2023 - Dec. 2023)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsguur&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsguur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,7 +30,6 @@ Department of Biomedical Engineering & Aritificial intelligence
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     </div><br>
     
 </div>
