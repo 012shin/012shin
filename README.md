@@ -10,7 +10,7 @@ Department of Biomedical Engineering & Aritificial intelligence
 - Representation learning
 
 ## Research Experiences
-- Research Intern at Universial Tranfer Learning Lab @ Korea University (March. 2024 - Present)
+- Research Intern at Universial Tranfer Learning Lab @ Korea University (April. 2024 - Present)
 - Research Intern at Biomedical Physics Lab @ Korea University (July. 2023 - Dec. 2023)
 
 ----
