@@ -6,8 +6,7 @@ Korea University, Korea (Mar. 2019 - Present)
 Department of Biomedical Engineering & Aritificial intelligence
 
 ## Research Interests
-- Computer Vision
-- Representation learning
+- Domain adaptation
 
 ## Research Experiences
 - Research Intern at Universial Tranfer Learning Lab @ Korea University (April. 2024 - Present)
